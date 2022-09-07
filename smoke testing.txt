@@ -1,0 +1,2 @@
+Smoke testing is the means by which a software build's stability is tested.
+ It's used to determine whether a new build is ready for the next phase of 
